@@ -1,0 +1,30 @@
+nggak usah dibaca ding, nggak penting.. ahahahah
+
+
+Routing yang dipake di folder routes/web.php
+template routing nya 
+"Route::get('nama_routes_nya', 'controllers@function')"
+
+
+folder view nya ada di
+resources/views/bla_bla.blade.php
+
+
+udah ada contoh untuk proses delete dan tampil doang. Utekku wis kobongan hahaha
+
+
+config databasenya ada di
+config/database.php sama .env
+
+file database testing ada di folder
+sqldatabase/db_illegal_trade.sql
+
+kalo pake xampp/lampp di ubuntu
+cara aksesnya
+localhost/project_folder/index.php/route/arguments
+
+jangan lupa di tarok di htdocs ya bebs....
+
+nggak usah pake php artisan bla bla itu... jijik...
+hahahah
+
